@@ -1,4 +1,9 @@
  Sample formatting for the MD File format.
+ 
+Link to .MD File tagsLink to [Click Here](https://github.com/fletcher/MultiMarkdown/blob/master/Documentation/Markdown%20Syntax.md "Title")
+
+Link to .MD File tagsLink to [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
+
 
 # Header 1 #
 ## Header 2 ##
@@ -8,7 +13,6 @@
 ###### Header 6
 
 Normal Text
-Link to .MD File tagsLink to [Click Here](https://github.com/fletcher/MultiMarkdown/blob/master/Documentation/Markdown%20Syntax.md "Title")
 
 italic*   **bold**
 _italic_   __bold__
